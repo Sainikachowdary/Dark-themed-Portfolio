@@ -11,7 +11,7 @@ body{
   line-height:1.6;
 }
 
-/* HEADER */
+
 
 header{
   background:#161616;
@@ -40,7 +40,7 @@ nav a:hover{
   color:#00bfff;
 }
 
-/* HERO SECTION */
+
 
 .hero{
   height:90vh;
@@ -67,7 +67,7 @@ nav a:hover{
   margin-bottom:20px;
 }
 
-/* BUTTON */
+
 
 .btn{
   padding:12px 25px;
@@ -84,7 +84,7 @@ nav a:hover{
   background:#009acd;
 }
 
-/* COMMON SECTION */
+
 
 section{
   padding:70px 10%;
@@ -97,7 +97,7 @@ section{
   color:#00bfff;
 }
 
-/* ABOUT */
+
 
 .about p{
   text-align:center;
@@ -106,7 +106,7 @@ section{
   color:#d4d4d4;
 }
 
-/* SKILLS */
+
 
 .skills-container{
   display:grid;
@@ -127,7 +127,7 @@ section{
   background:#00bfff;
 }
 
-/* PROJECTS */
+
 
 .projects{
   display:grid;
@@ -151,7 +151,7 @@ section{
   color:#00bfff;
 }
 
-/* CONTACT */
+
 
 .contact{
   text-align:center;
@@ -169,7 +169,7 @@ section{
   color:white;
 }
 
-/* FOOTER */
+
 
 footer{
   text-align:center;
@@ -179,7 +179,7 @@ footer{
   color:#bdbdbd;
 }
 
-/* RESPONSIVE */
+
 
 @media(max-width:768px){
 
